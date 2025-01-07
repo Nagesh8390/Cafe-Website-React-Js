@@ -1,0 +1,30 @@
+.hero {
+    background: url('https://via.placeholder.com/1200x400') center/cover no-repeat;
+    color: white;
+    padding: 50px;
+}
+
+.menu, .about, .contact {
+    padding: 20px;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu ul li {
+    margin: 10px 0;
+}
+
+button {
+    background-color: #6b4f4f;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #5a4343;
+}
